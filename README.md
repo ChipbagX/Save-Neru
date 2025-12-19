@@ -1,4 +1,4 @@
-<img width="962" height="962" alt="teto" src="https://github.com/user-attachments/assets/9223fb97-0455-4aba-a546-73fce8cb48d6" />
+<img width="64" height="64" alt="teto" src="https://github.com/user-attachments/assets/9223fb97-0455-4aba-a546-73fce8cb48d6" />
 
 Yes. It was made on scratch, but I didn't want to be able to play it on scratch tho so I just made it an html file.
 
