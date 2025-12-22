@@ -14,4 +14,4 @@ HEAL ( K ) - 15 Second cool down.
 If you try to heal while still on full health, you WILL die.
 
 Find Secret Boss if you can..
-4 Endings - Good ending (Win) Bad ending (Die) - SECRET ENDING!?!?!? True Ending..
+6 Endings - Good ending (Win) Bad ending (Die) - SECRET ENDING!?!?!? True Ending.. BEST ENDING. WORST ENDING.
